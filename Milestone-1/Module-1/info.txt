@@ -1,0 +1,100 @@
+<html>: Root element for the HTML document.
+<head>: Contains metadata about the HTML document.
+<title>: Sets the title of the HTML document, displayed in the browser tab.
+<meta>: Provides metadata about the HTML document, like character set and viewport settings.
+<body>: Contains the content of the HTML document.
+<h1> to <h6>: Define headings of different levels.
+<p>: Defines a paragraph.
+<a>: Creates hyperlinks to other pages or resources.
+<img>: Embeds images in the document.
+<ul>: Defines an unordered list.
+<ol>: Defines an ordered list.
+<li>: Represents a list item in ordered or unordered lists.
+<div>: Defines a division or a section in an HTML document.
+<span>: Defines an inline container.
+<strong>: Represents strong importance, typically displayed as bold.
+<em>: Represents emphasized text, typically displayed as italicized.
+<br>: Inserts a line break.
+<hr>: Represents a thematic break or horizontal line.
+<table>: Defines a table.
+<tr>: Defines a table row.
+<td>: Defines a table cell.
+<th>: Defines a header cell in a table.
+<thead>: Groups the header content in a table.
+<tbody>: Groups the body content in a table.
+<tfoot>: Groups the footer content in a table.
+<caption>: Adds a title or explanation for a table.
+<form>: Defines an HTML form for user input.
+<input>: Creates various types of input fields within a form.
+<label>: Defines a label for an <input> element.
+<textarea>: Defines a multiline text input control.
+<select>: Defines a drop-down list.
+<option>: Defines an option in a <select> element.
+<button>: Creates a clickable button.
+<iframe>: Embeds an inline frame for external content.
+<script>: Embeds or references a script within an HTML document.
+<noscript>: Provides alternative content when JavaScript is disabled.
+<style>: Embeds CSS styles or references an external style sheet.
+<link>: Links an external resource, such as a style sheet.
+<abbr>: Represents an abbreviation or acronym.
+<address>: Represents contact information for the author or owner of a document.
+<b>: Represents bold text.
+<i>: Represents italicized text.
+<u>: Represents underlined text.
+<s>: Represents strikethrough text.
+<cite>: Represents the title of a creative work.
+<code>: Represents a single line of code.
+<pre>: Represents preformatted text, preserving both spaces and line breaks.
+<kbd>: Represents keyboard input.
+<samp>: Represents sample output from a program.
+<var>: Represents a variable.
+<mark>: Represents marked or highlighted text.
+<small>: Represents smaller text.
+<sub>: Represents subscript text.
+<sup>: Represents superscript text.
+<blockquote>: Represents a block of text quoted from another source.
+<q>: Represents inline quotations.
+<cite>: Represents the title of a creative work cited in text.
+<dfn>: Represents a definition term.
+<del>: Represents deleted text.
+<ins>: Represents inserted text.
+<time>: Represents a specific period in time.
+<abbr>: Represents an abbreviation or acronym with a tooltip.
+<progress>: Represents the progress of a task.
+<meter>: Represents a scalar measurement within a known range.
+<details>: Represents additional details that the user can interact with.
+<summary>: Represents a summary or caption for the content of a <details> element.
+<header>: Represents a group of introductory or navigational aids.
+<footer>: Represents a group of metadata or closing content.
+<nav>: Represents a navigation menu.
+<main>: Represents the main content of the document.
+<section>: Represents a generic section of content.
+<article>: Represents a self-contained piece of content, such as a news article or blog post.
+<aside>: Represents content that is tangentially related to the content around it.
+<figure>: Represents any content that is referenced from the main content, often with a caption.
+<figcaption>: Represents a caption or legend for a <figure> element.
+<audio>: Embeds audio content in the document.
+<video>: Embeds video content in the document.
+<source>: Specifies multiple media resources for <audio> or <video>.
+<track>: Specifies text tracks for <audio> or <video>.
+<canvas>: Provides a drawing surface through JavaScript.
+<svg>: Embeds scalable vector graphics.
+<map>: Defines a client-side image map.
+<area>: Defines an area inside an image map.
+<iframe>: Defines an inline frame for external content.
+<object>: Embeds external objects, such as images, audio, or videos.
+<param>: Defines parameters for <object> elements.
+<embed>: Embeds external content or plugins.
+<blockquote>: Represents a block of text quoted from another source.
+<cite>: Represents the title of a creative work cited in text.
+<q>: Represents inline quotations.
+<abbr>: Represents an abbreviation or acronym.
+<address>: Represents contact information for the author or owner of a document.
+<bdo>: Overrides the text direction.
+<ruby>: Represents a ruby annotation for East Asian typography.
+<rt>: Represents the pronunciation of characters presented in a ruby annotation.
+<rp>: Represents fallback content for browsers that do not support ruby annotations.
+<bdi>: Isolates a span of text that might be formatted in a different direction from other text.
+<wbr>: Represents a word break opportunity.
+<data>: Links a piece of content with machine-readable data.
+<time>: Represents a specific period in time
