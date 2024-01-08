@@ -1,0 +1,20 @@
+1. What is the difference between map, forEach, filter ?
+2. WHat is the difference between filter and find ?
+3. What is the difference between for..of and for..in ?
+4. How do you empty an array ?
+5. Difference between class and object ?
+6. What is prototype chain ? or how does inheritance work in Javascript?
+7. What does the destructuring do in ES6 ?
+8. Is Optional chaining is same as ternary operator ?
+9. What do you mean by dot notation and bracket notation ?
+   When should you use dot notation or bracket notation ?
+
+
+
+###
+#const {prop} = object;  // property to variable 
+#const {prop = 'Default'} = object; // default value
+#const {prop : {deepProp}} = object; //Deep property
+#const {prop : myProp} = object; //Alias
+#const {[propName] : myProp} = object; //Dynamic PropertyName
+#const {prop1,prop2,.....propN} = object; //Multiple Properties
