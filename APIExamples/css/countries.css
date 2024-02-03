@@ -1,0 +1,22 @@
+.country-div {
+  border: 2px solid rgb(37, 202, 208);
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.country-h3 {
+  border: 2px solid rgb(154, 193, 26);
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.country-p {
+  border: 2px solid rgb(106, 205, 60);
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+#countries {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

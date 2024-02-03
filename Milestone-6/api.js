@@ -22,6 +22,7 @@ function displayPost(posts){
       for(const post of posts){
         //console.log(user.name);
         const postDiv = document.createElement('div');
+        postDiv.classList.add('post')
         postDiv.innerHTML = `
        <h4>User- ${post.userId} </h4>
        <h5>Post : ${post.title} </h5>
