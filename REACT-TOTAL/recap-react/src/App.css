@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #f6f7f8;
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -37,11 +37,10 @@
   }
 }
 
-.users {
-  background-color: skyblue;
-  border: 3px solid lightsalmon;
-  border-radius: 20px;
+.loadUsers {
+  background-color: rgb(229, 197, 17);
+  color: azure;
   margin: 10px;
-  color: white;
-  grid-template-columns: 3fm, 3;
+  border: 3px solid rgb(0, 255, 4);
+  border-radius: 10px;
 }
