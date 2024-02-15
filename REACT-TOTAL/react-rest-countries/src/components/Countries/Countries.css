@@ -1,0 +1,21 @@
+.divContainer {
+  color: #006400;
+  background-color: #e6be8a;
+  border: 3px solid purple;
+  margin: 10px;
+  border-radius: 20px;
+}
+.h2Container {
+  color: black;
+  background-color: white;
+  border: 3px solid purple;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.countries-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
